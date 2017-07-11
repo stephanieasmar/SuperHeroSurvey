@@ -15,9 +15,13 @@
 }
 
 .survey {
-    border: 1px solid grey;
+    background-image: url(images/prangers.jpg);
     margin-bottom: 5%;
     margin-left: 5%;
     margin-right: 5%;
     padding: 20px;
+    color: white;
+    background-size: cover;
+    height: 100%;
+    width: 90%;
 }
