@@ -1,17 +1,20 @@
 .container {
-    /*border: 1px solid grey;*/
-    margin-top: 1%;
     padding: .1px;
 }
 
 .heading {
+    display: flex;
+    justify-content: center;
     color: hotpink;
+    /*border: 1px solid grey;*/
 }
 .login {
     margin-top: 1%;
+    margin-left: 1%;
     background-color: black;
     color: white;
     padding: 2%;
+    width: 98%;
 }
 
 .survey {
@@ -19,7 +22,7 @@
     margin-bottom: 5%;
     margin-left: 5%;
     margin-right: 5%;
-    padding: 20px;
+    padding: 30px;
     color: white;
     background-size: cover;
     height: 100%;
