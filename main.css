@@ -6,8 +6,8 @@
     display: flex;
     justify-content: center;
     color: hotpink;
-    /*border: 1px solid grey;*/
 }
+
 .login {
     margin-top: 1%;
     margin-left: 1%;
@@ -19,7 +19,6 @@
 
 .survey {
     background-image: url(images/prangers.jpg);
-    margin-bottom: 5%;
     margin-left: 5%;
     margin-right: 5%;
     padding: 30px;
@@ -28,3 +27,10 @@
     height: 100%;
     width: 90%;
 }
+
+.footer {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 5%;
+    color: grey;
+    }
